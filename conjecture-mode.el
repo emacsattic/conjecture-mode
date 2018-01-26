@@ -3,6 +3,8 @@
 ;; Copyright © 2013 Paul Stadig
 ;; Copyright © 2009-2011 Phil Hagelberg
 
+;; License: GPL
+
 ;; Author: Paul Stadig <paul@stadig.name>
 ;; URL: http://emacswiki.org/cgi-bin/wiki/ConjectureMode
 ;; Version: 1.0
